@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { InputFormProps } from "./input-form.interface";
 import { FormContainer } from "./input-form.styles";
 
